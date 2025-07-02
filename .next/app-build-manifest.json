@@ -11,25 +11,10 @@
       "static/chunks/main-app.js",
       "static/chunks/app/page.js"
     ],
-    "/cursus/page": [
+    "/_not-found/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/cursus/page.js"
-    ],
-    "/choix-departement/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/choix-departement/page.js"
-    ],
-    "/paiement/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/paiement/page.js"
-    ],
-    "/emploi-du-temps/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/emploi-du-temps/page.js"
+      "static/chunks/app/_not-found/page.js"
     ]
   }
 }

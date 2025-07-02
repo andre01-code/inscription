@@ -1,7 +1,4 @@
 {
-  "/page": "app/page.js",
-  "/cursus/page": "app/cursus/page.js",
-  "/choix-departement/page": "app/choix-departement/page.js",
-  "/paiement/page": "app/paiement/page.js",
-  "/emploi-du-temps/page": "app/emploi-du-temps/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js"
 }
