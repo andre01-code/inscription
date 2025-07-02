@@ -127,7 +127,7 @@ export default function ChoixDepartementPage() {
       <div className="container mx-auto px-4 py-12">
         <div className="mb-8">
           <Link href="/">
-            <Button variant="ghost" className="text-blue-300 hover:text-blue-100 hover:bg-blue-900/30 -ml-4">
+            <Button className="text-blue-300 hover:text-blue-100 hover:bg-blue-900/30 -ml-4">
               <ArrowLeft className="mr-2 h-4 w-4" />
               Retour à l'inscription
             </Button>
